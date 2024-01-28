@@ -21,7 +21,6 @@ Ensure you have Java installed on your machine.
 
 # Clone the repository:
 
-git clone https://github.com/yourusername/nightclub-simulation.git
 
 # Compile and run the simulation:
 
